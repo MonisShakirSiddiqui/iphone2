@@ -1,0 +1,170 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    background-color: black;
+    color: white;
+}
+.waste{
+    display: flex;
+    width: 70%;
+    justify-content: space-between;
+}
+.sm-box{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.sm-boxmain{
+    display: flex;
+    justify-content: space-evenly;
+}
+.main1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 115px;
+}
+.main1>h4{
+    padding-top: 15px;
+    font-weight: 600;
+}
+.main1>h1{
+    padding-top: 15px;
+    font-weight: 900;
+    
+}
+.main1>p2{
+    padding-top: 15px; 
+}
+.cssbutt{
+    display: flex;
+    width: 25%;
+    justify-content: space-evenly;
+    margin-top: 15px;
+    align-items: center;
+}
+button{
+    width: 61.203px;
+    height: 36px;
+    padding: 8px 15.6px 8px 16px;
+    background-color: #0071E3;
+    border: 1px solid #0071E3;
+    border-radius: 15px;
+}
+p3{
+    color: #0071E3;
+}
+.main1>img{
+    padding: 40px;
+}
+.main2{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: black;
+    color: white;
+}
+.main2>p{
+    padding-top: 110px;
+}
+.main2>h1{
+    padding-top: 15px;
+    color: #B344FF;
+}
+.main2>p2{
+    padding-top: 15px;
+}
+.main2>ccbutt{
+    padding-top: 15px;
+}
+.main2>img{
+    padding-top: 25px;
+}
+.inside1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.inside1>h1{
+    color: #3153C6;
+    font-size: 40px;
+}
+.inside2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.cssbutt>p3{
+    padding-left: 50px;
+}
+.inside1>p2{
+    padding-top: 25px;
+}
+.background{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('./assest/moniss.svg');
+    background-size: cover; /* You can adjust this property as needed */
+    background-repeat: no-repeat;
+    color: white;
+    
+}
+.btn1{
+   width: auto;
+   background-color: white;
+   color: #000;
+   margin-top: 20px;
+}
+.center1{
+    padding-top: 300px;
+    padding-left: 220px;
+}
+.whichp{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.last1{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 25px;
+}
+.section1{
+
+    margin: 50px;
+}
+.section1>h1{
+    text-align: center;
+}
+.whichp>img{
+   padding: 15px;
+}
+.whichp>h3{
+    padding: 15px;
+ }
+ .whichp>p{
+    padding: 25px;
+    font-weight: 500;
+ }
+ .whichp>p5{
+    padding: 25px;
+    
+ }
+ .btn22{
+    padding: 25px;
+    
+ }
+ .whichp>p10{
+    padding: 25px;
+    
+ }
+ .whichp>a{
+    padding: 25px;
+    
+ }
